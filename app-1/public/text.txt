@@ -1,0 +1,6 @@
+this is text for me 
+url = "https://www.youtube.com/watch?v=sbMHR9K60NY"
+project-name = "How To Build & Deploy Modern Responsive Website Using React JS & Tailwind CSS | Frontend Project
+"
+url-in-computer = "/home/mahmoud/Downloads/React projects 
+time-at = 01:50:00

@@ -1,0 +1,7 @@
+url = "https://www.youtube.com/watch?v=4NZx9OF07qY"
+
+name = "MERN Finance Tracker App with User Management - Build A Fullstack React Intermediate Project"
+
+pointOfStop = 00:00:00
+
+typescripte vertion 
